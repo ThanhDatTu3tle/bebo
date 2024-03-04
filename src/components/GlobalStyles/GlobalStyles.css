@@ -5,6 +5,8 @@
   --default-layout-width: 1920px;
 
   --primary-color: #EFEBDF;
+  --primary-text-color: #C3928B;
+  --bold-text-color: #83605E;
 }
 
 * {
