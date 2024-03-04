@@ -1,0 +1,9 @@
+.main {
+    width: 100vw;
+    height: max-content;
+}
+
+.content {
+    display: flex;
+    width: 100%;
+}
